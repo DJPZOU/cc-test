@@ -1,0 +1,13 @@
+minecraft:stone
+minecraft:sand
+minecraft:dirt
+minecraft:andesite
+minecraft:diorite
+minecraft:granite
+minecraft:clay
+minecraft:gravel
+minecraft:cobblestone
+promenade:asphalt
+bewitchment:salt_ore
+bewitchment:deepslate_salt_ore
+twigs:pebble
