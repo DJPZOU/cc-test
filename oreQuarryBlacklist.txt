@@ -20,6 +20,7 @@ minecraft:granite
 minecraft:clay
 minecraft:tuff
 minecraft:glow_lichen
+minecraft:clay_ball
 minecraft:big_dripleaf
 minecraft:big_dripleaf_stem
 minecraft:deepslate
@@ -29,9 +30,15 @@ minecraft:spore_blossom
 minecraft:cave_vines
 minecraft:vines
 minecraft:azalea
+minecraft:glow_berries
+minecraft:flint
 promenade:asphalt
 promenade:blunite
 bewitchment:salt_ore
+bewitchment:salt
 bewitchment:deepslate_salt_ore
 twigs:rhyolite
 twigs:azalea_flowers
+twigs:pebble
+fishofthieves:earthworms
+modern_industrialization:salt_dust
