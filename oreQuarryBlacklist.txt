@@ -35,6 +35,7 @@ minecraft:azalea
 minecraft:flowering_azalea
 minecraft:tall_grass
 minecraft:glow_lichen
+minecraft:dripstone_block
 minecraft:glow_berries
 minecraft:flint
 minecraft:clay_ball
@@ -58,3 +59,4 @@ modern_industrialization:salt_dust
 regions_unexplored:prismarite_cluster
 regions_unexplored:hanging_prismarite
 regions_unexplored:cave_hyssop
+create:ochrum
