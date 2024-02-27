@@ -59,4 +59,5 @@ modern_industrialization:salt_dust
 regions_unexplored:prismarite_cluster
 regions_unexplored:hanging_prismarite
 regions_unexplored:cave_hyssop
+regions_unexplored:pointed_redstone
 create:ochrum
